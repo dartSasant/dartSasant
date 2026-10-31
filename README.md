@@ -28,7 +28,7 @@ A student app for **Texas College of Management & IT**, currently used by studen
 Drastically improved version of TexasAttend
 
 - 🤖 [Live on Google Play](https://play.google.com/store/apps/details?id=com.learning.texas) (100+ downloads)
-- 🍎 iOS version: _in App Store review, link coming soon_
+- 🍎 [Live on App Store.](https://apps.apple.com/app/learning-texas/id6818040664)
 
 ## Tech stack
 
